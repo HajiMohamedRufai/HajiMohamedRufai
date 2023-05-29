@@ -1,8 +1,8 @@
 # Haji Mohamed Rufai
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Haji%20Mohamed%20Rufai-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/hajirufai/))
-[![Twitter](https://img.shields.io/badge/Twitter-@your_twitter_handle-blue?style=flat-square&logo=twitter)]([https://twitter.com/your-twitter-handle](https://twitter.com/hajirufai))
-[![Dev.to](https://img.shields.io/badge/Dev.to-Haji%20Mohamed%20Rufai-black?style=flat-square&logo=dev.to)]([https://dev.to/your-devto-profile](https://dev.to/thyalpha001))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Haji%20Mohamed%20Rufai-blue?style=flat-square&logo=linkedin)(https://www.linkedin.com/in/hajirufai/))
+[![Twitter](https://img.shields.io/badge/Twitter-@your_twitter_handle-blue?style=flat-square&logo=twitter)](https://twitter.com/hajirufai)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Haji%20Mohamed%20Rufai-black?style=flat-square&logo=dev.to)](https://dev.to/thyalpha001)
 
 ## About Me
 
