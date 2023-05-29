@@ -31,3 +31,11 @@ I am Haji Mohamed Rufai, a dedicated and enthusiastic professional in the field 
 - Excellent problem-solving skills, attention to detail, and the ability to work effectively both independently and as part of a team.
 
 I am excited about new opportunities in the field of data engineering and look forward to connecting with you. Feel free to reach out to me via LinkedIn, Twitter, or Dev.to using the links above. Let's discuss how I can contribute to your organization's success!
+
+## Connect with Me
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B254778440618-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/+254778440618?text=Hello%20Haji%20Mohamed%20Rufai,%0D%0A%0D%0AI%20would%20like%20to%20connect%20with%20you%20regarding%20...)
+
+[![Email](https://img.shields.io/badge/Email-mohamedrufai59%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:mohamedrufai59@gmail.com?subject=Hello%20Haji%20Mohamed%20Rufai&body=Dear%20Haji%20Mohamed%20Rufai,%0D%0A%0D%0AHope%20you%20are%20doing%20well.%0D%0A%0D%0AI%20would%20like%20to%20connect%20with%20you%20regarding%20...)
+
+I believe in effective communication and collaboration. If you have any questions, opportunities, or would like to discuss potential collaborations, please feel free to reach out to me via WhatsApp or email. Click the WhatsApp icon above to directly message me or use the email icon to send me an email. I am always open to new connections and would be delighted to hear from you. Let's connect and explore how we can work together to achieve great things!
