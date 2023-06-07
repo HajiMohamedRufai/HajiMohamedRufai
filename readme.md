@@ -22,6 +22,7 @@ I am Haji Rufai, a dedicated and enthusiastic professional in the field of Data 
 - Link to project [DALRRD-Daily-Commodity-Prices](https://github.com/Explore-AI/internship-project-2207-08)
 
 - **Facial Recognition Project** - I have also worked on a facial recognition project, where I contributed to the development and implementation of facial recognition algorithms. This project enhanced my understanding of computer vision techniques and honed my programming skills.
+Link to project [Final-Year-Project](https://github.com/BrianMburu/FRBS_API)
 
 ## Why Hire Me?
 
