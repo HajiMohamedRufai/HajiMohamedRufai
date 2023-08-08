@@ -19,7 +19,7 @@ I am Haji Rufai, a dedicated and enthusiastic professional in the field of Data 
 ## Projects
 
 - **DALRRD daily commodities prices** - During my internship, I had the opportunity to work on the dalrrd daily commodities prices project. This experience allowed me to apply my data engineering skills and gain hands-on experience in working with real-world datasets.
- - Link to project [DALRRD-Daily-Commodity-Prices](https://github.com/Explore-AI/internship-project-2207-08)
+ - Link to project [DALRRD-Daily-Commodity-Prices](https://github.com/HajiMohamedRufai/explore-ai-internship-project/)
 
 - **Facial Recognition Project** - I have also worked on a facial recognition project, where I contributed to the development and implementation of facial recognition algorithms. This project enhanced my understanding of computer vision techniques and honed my programming skills.
  - Link to project [Final-Year-Project](https://github.com/BrianMburu/FRBS_API)
