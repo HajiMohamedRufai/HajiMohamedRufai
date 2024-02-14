@@ -9,10 +9,10 @@
 
 I am Haji Rufai, a dedicated and enthusiastic professional in the field of Data Engineering. With a strong academic background in Mathematics and Computer Science, I am equipped with a solid foundation in problem-solving and analytical thinking.
 
-<div style="display: flex; justify-content: space-between;">
-    <a href="https://www.hackerrank.com/mohamedrufai59?hr_r=1">Visit my HackerRank Profile</a>
-    <a href="https://learn.microsoft.com/en-us/users/hajirufai-1055/achievements">Visit my Microsoft Learn Profile</a>
-</div>
+[Visit my HackerRank Profile](https://www.hackerrank.com/mohamedrufai59?hr_r=1)
+<br>
+[Visit my Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/hajirufai/achievements)
+
 
 
 ## Education
