@@ -5,7 +5,7 @@
 [![Dev.to](https://img.shields.io/badge/Dev.to-Haji%20Mohamed%20Rufai-black?style=flat-square&logo=dev.to)](https://dev.to/thyalpha001)
 
 
-## About Me
+## [About Me](https://medium.com/@mohamedrufai59/about)
 
 I am Haji Rufai, a dedicated and enthusiastic professional in the field of Data Engineering. With a strong academic background in Mathematics and Computer Science, I am equipped with a solid foundation in problem-solving and analytical thinking.
 
