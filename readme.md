@@ -10,9 +10,9 @@
 As the founding engineer of ShareRide, a startup I co-founded, I'm deeply involved in crafting a solution to Nairobi's commuting challenges. 
 
 ShareRide is designed specifically for the city's middle-class population, offering an innovative ride-sharing platform that bridges the gap between expensive ride-hailing services and crowded public transport. By connecting private car owners with commuters heading in the same direction, we aim to provide a quicker, more comfortable, and affordable way to travel across the city.
-<br>
 <hr>
 
+👋 **Yes Hello**
 
 I am Haji Rufai, a Software and Data Engineer with a growing interest in AI and Web3 technologies. My academic background in Mathematics and Computer Science has equipped me with strong analytical and problem-solving skills, which I apply to every project I undertake. 
 
@@ -54,7 +54,7 @@ I am Haji Rufai, a Software and Data Engineer with a growing interest in AI and 
 
 I am eager to explore new opportunities in the fields of data engineering, AI (ML&LLMs) and Web3, and I look forward to connecting with like-minded professionals. 
 
-Feel free to reach out to me via LinkedIn, Twitter using the links above. Let’s discuss how I can contribute to your team’s success!
+Feel free to reach out to me via LinkedIn, Twitter using the links above. Let's explore how we can collaborate to drive your team's success!
 
 
 ---
