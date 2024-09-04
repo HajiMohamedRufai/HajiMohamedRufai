@@ -39,10 +39,10 @@ I am Haji Rufai, a Software and Data Engineer with a growing interest in AI and 
   - Link to project: [Stock-Market-Data-Pipeline](https://github.com/HajiMohamedRufai/stock-market-data-pipeline)
 
 - **DALLRD Daily Commodity Prices** - Developed a system to automate the collection and processing of daily commodity prices for the DALLRD (Department of Agriculture, Land Reform, and Rural Development). The project involved data scraping, cleaning, and visualization, enabling stakeholders to make informed decisions.
-  - Link to project: [DALLRD Daily Commodity Prices](https://github.com/HajiMohamedRufai/DALLRD-commodity-prices)
+  - Link to project: [DALLRD Daily Commodity Prices](https://github.com/HajiMohamedRufai/explore-ai-dalrrd-project)
 
 - **Facial Recognition System** - Implemented a facial recognition system using Python and OpenCV. This project was focused on enhancing security measures through biometric identification, capable of recognizing and verifying individuals in real-time.
-  - Link to project: [Facial Recognition System](https://github.com/HajiMohamedRufai/facial-recognition)
+  - Link to project: [Facial Recognition System](https://github.com/BrianMburu/FRBS_API)
 
 
 
